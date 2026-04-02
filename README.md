@@ -31,6 +31,15 @@ AI API:
 - API-based AI integration
 
 ---
+##START FRONTEND
+cd client
+npm install
+npm start
+
+##Backend
+cd server
+npm install
+node server.js
 
 ## Installation
 
@@ -38,4 +47,6 @@ Clone repository:
 
 ```bash
 git clone https://github.com/Keerthinersu/ai-chatbot.git
+
+
 
